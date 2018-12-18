@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guestbook>
+    <guest>
+        <fname>Fulano</fname>
+        <lname>de Tal</lname>
+    </guest>
+    <guest>
+        <fname>Cilano</fname>
+        <lname>Qualquer</lname>
+    </guest>
+</guestbook>
